@@ -1,5 +1,6 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
+  "item.wilispikmins.red_pikmin_spawn_egg": "Red Pikmin Spawn Egg",
+  "itemGroup.wilispikmins": "Example Mod Tab",
   "block.examplemod.example_block": "Example Block",
   "item.examplemod.example_item": "Example Item",
 
@@ -9,5 +10,7 @@
   "examplemod.configuration.items": "Item List",
   "examplemod.configuration.logDirtBlock": "Log Dirt Block",
   "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "examplemod.configuration.magicNumber": "Magic Number",
+
+  "entity.wilispikmins.red_pikmin": "Red Pikmin"
 }
