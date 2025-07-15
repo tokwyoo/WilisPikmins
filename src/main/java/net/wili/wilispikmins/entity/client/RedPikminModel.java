@@ -1,16 +1,14 @@
-package com.example.wilispikmins.entity.client;
+package net.wili.wilispikmins.entity.client;
 
 // Made with Blockbench 4.12.5
 // Exported for Minecraft version 1.17 or later with Mojang mappings
 // Paste this class into your mod and generate all required imports
 
 
-import com.example.wilispikmins.WilisPikmins;
-import com.example.wilispikmins.entity.custom.RedPikminEntity;
-import com.ibm.icu.text.Normalizer2;
+import net.wili.wilispikmins.WilisPikmins;
+import net.wili.wilispikmins.entity.custom.RedPikminEntity;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
-import net.minecraft.client.model.EntityModel;
 import net.minecraft.client.model.HierarchicalModel;
 import net.minecraft.client.model.geom.ModelLayerLocation;
 import net.minecraft.client.model.geom.ModelPart;

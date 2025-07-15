@@ -1,4 +1,4 @@
-package com.example.wilispikmins;
+package net.wili.wilispikmins;
 
 import java.util.List;
 

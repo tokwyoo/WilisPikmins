@@ -1,7 +1,7 @@
-package com.example.wilispikmins.item;
+package net.wili.wilispikmins.item;
 
-import com.example.wilispikmins.WilisPikmins;
-import com.example.wilispikmins.entity.ModEntities;
+import net.wili.wilispikmins.WilisPikmins;
+import net.wili.wilispikmins.entity.ModEntities;
 import net.minecraft.world.item.Item;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.common.DeferredSpawnEggItem;

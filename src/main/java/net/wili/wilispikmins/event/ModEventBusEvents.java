@@ -1,9 +1,9 @@
-package com.example.wilispikmins.event;
+package net.wili.wilispikmins.event;
 
-import com.example.wilispikmins.WilisPikmins;
-import com.example.wilispikmins.entity.ModEntities;
-import com.example.wilispikmins.entity.client.RedPikminModel;
-import com.example.wilispikmins.entity.custom.RedPikminEntity;
+import net.wili.wilispikmins.WilisPikmins;
+import net.wili.wilispikmins.entity.ModEntities;
+import net.wili.wilispikmins.entity.client.RedPikminModel;
+import net.wili.wilispikmins.entity.custom.RedPikminEntity;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.neoforge.client.event.EntityRenderersEvent;

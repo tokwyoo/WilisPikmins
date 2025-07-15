@@ -1,11 +1,8 @@
-package com.example.wilispikmins.datagen;
+package net.wili.wilispikmins.datagen;
 
-import com.jcraft.jorbis.Block;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.loot.BlockLootSubProvider;
-import net.minecraft.world.flag.FeatureFlagSet;
 import net.minecraft.world.flag.FeatureFlags;
-import net.minecraft.world.item.Item;
 
 import java.util.Set;
 

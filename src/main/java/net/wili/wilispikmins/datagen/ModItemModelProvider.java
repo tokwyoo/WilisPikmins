@@ -1,7 +1,7 @@
-package com.example.wilispikmins.datagen;
+package net.wili.wilispikmins.datagen;
 
-import com.example.wilispikmins.WilisPikmins;
-import com.example.wilispikmins.item.ModItems;
+import net.wili.wilispikmins.WilisPikmins;
+import net.wili.wilispikmins.item.ModItems;
 import net.minecraft.data.PackOutput;
 import net.neoforged.neoforge.client.model.generators.ItemModelProvider;
 import net.neoforged.neoforge.common.data.ExistingFileHelper;

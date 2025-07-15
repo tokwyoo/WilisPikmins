@@ -1,7 +1,7 @@
-package com.example.wilispikmins.entity.client;
+package net.wili.wilispikmins.entity.client;
 
-import com.example.wilispikmins.WilisPikmins;
-import com.example.wilispikmins.entity.custom.RedPikminEntity;
+import net.wili.wilispikmins.WilisPikmins;
+import net.wili.wilispikmins.entity.custom.RedPikminEntity;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.renderer.MultiBufferSource;
 import net.minecraft.client.renderer.entity.EntityRendererProvider;

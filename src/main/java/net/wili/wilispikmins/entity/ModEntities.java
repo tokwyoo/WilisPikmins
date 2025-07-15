@@ -1,7 +1,7 @@
-package com.example.wilispikmins.entity;
+package net.wili.wilispikmins.entity;
 
-import com.example.wilispikmins.WilisPikmins;
-import com.example.wilispikmins.entity.custom.RedPikminEntity;
+import net.wili.wilispikmins.WilisPikmins;
+import net.wili.wilispikmins.entity.custom.RedPikminEntity;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.MobCategory;

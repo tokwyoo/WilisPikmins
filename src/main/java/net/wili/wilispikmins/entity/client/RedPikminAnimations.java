@@ -1,4 +1,4 @@
-package com.example.wilispikmins.entity.client;
+package net.wili.wilispikmins.entity.client;
 
 import net.minecraft.client.animation.AnimationChannel;
 import net.minecraft.client.animation.AnimationDefinition;
